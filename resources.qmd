@@ -39,6 +39,11 @@ Smarter people have already said a lot of what I think needs to be said. I've in
   
   - What opportunities do they have to take graduate-level classes during their pre-doc? Do they have to cover the cost? Is it for a grade or can they only audit? 
   
+  
+  - What are the norms around co-authorship with pre-docs? How will your work be recognized? 
+  
+    - The norms within econ don't match up with other fields. In some fields, it is the norm for RAs who contribute a significant amount of time to a project to become co-authors. In econ, this view is often discounted in favor of pre-docs remaining the in the acknowledgements. Here are some interesting discussions of this phenomenon: [1](https://twitter.com/straightedge/status/1312636836771033089), [2](https://twitter.com/jonj/status/1354171126386208768)
+  
   - Ask if any of their friends have had a particularly good experience with certain professors. 
 
 
@@ -93,7 +98,7 @@ At SIEPR my benefits are as follows. Granted I have not actually started, this i
   
   - One grad course per quarter covered by SIEPR (excluding summer) taken for a grade. 
   
-  - laptop
+  - Laptop
   
   - Access to on campus housing (besides the first summer if you are coming straight from undergrad)
   
