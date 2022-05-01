@@ -1,0 +1,120 @@
+---
+title: "Resources"
+---
+
+## Pre-Doc Advice and Resources
+Smarter people have already said a lot of what I think needs to be said. I've included a ton of links + some original advice below. 
+
+- [EconRA Guide](https://raguide.github.io/): Covers all steps of the pre-doc process. Highly recommend reading through. 
+
+- [Alvin Christian's Advice](https://www.alvinchristian.com/resources): Advice from a recent predoc. 
+
+- [Women in Econ and Policy Pre-Doc Advice Compilation](https://us17.campaign-archive.com/?u=3d315482a01ddd29e7b7161ac&id=0c0e1b3460)
+
+- [Predoc.org](https://predoc.org/): You might've heard of this. I used it mostly to look for jobs. They host coding and other kinds of workshops that can be helpful. 
+
+- [Predoc survey](https://z-y-huang.github.io/predoc_survey/slides.pdf): Useful statistics.
+
+- The predoc discourse part [1](https://twitter.com/kearney_melissa/status/1312236608004018178), [2](https://twitter.com/TrevonDLogan/status/1312410038414315525), [3](https://twitter.com/RhondaVSharpe/status/1312522833612861440), [4](https://twitter.com/Claudia_Sahm/status/1411678871393640452), [anon predoc](https://twitter.com/EconPreDocAnon), [6](https://twitter.com/ENPancotti/status/1282332401343946758) (these are only some tweets that I found looking back)
+  
+  - Periodically on Twitter, economics professors and former pre-docs talk about the pros and cons of predocs. These perspectives are really valuable and often not captured in the websites above. 
+  
+  - I went into the process aware of this and it prompted me to be very thorough about the actual work environment of the places I was considering. 
+  
+- Talk to previous pre-docs of the person who you want to work for and ask about work hours, expectations, stress, & general environment.
+
+  - How many hours a week did they work on average?
+  
+  - How reasonable did they feel like the deadlines were? 
+  
+  - How often did they meet with their PI to talk about their own research ideas, professional growth etc.?
+  
+  - How collaborative was their pre-doc cohort?
+  
+  - What is their physical office like? Are there windows? How often are they expected to work in person versus remote?
+  
+  - How is the salary / stipend structured? Were they paid on time? How much of their stipend did they spend on rent? 
+  
+  - What is health insurance like? Do they have to cover the premium?
+  
+  - What opportunities do they have to take graduate-level classes during their pre-doc? Do they have to cover the cost? Is it for a grade or can they only audit? 
+  
+  - Ask if any of their friends have had a particularly good experience with certain professors. 
+
+
+### Finding Jobs
+
+- [Predoc.org](https://predoc.org/opportunities) and its [Twitter](https://twitter.com/predoc_org)
+
+- [NBER](https://www.nber.org/career-resources/research-assistant-positions-not-nber) (be sure to check both opportunities at the NBER and outside of it)
+
+- [Econ RA twitter](https://twitter.com/econ_ra)
+
+  - Sometimes this account is a little delayed in retweeting things, I would just search @econ_ra on Twitter to see opportunities that @ them. 
+  
+- [Econ Job Market](https://econjobmarket.org/market) usually skews towards more international positions.
+
+- [Fed Econ Jobs](https://www.fedeconjobs.org/Branches/AllOpportunities.aspx) it's surprisingly hard to find this website on google, but it contains a lot of good information if you are interested in RA-ing at the Fed. 
+
+- There are certain programs that regularly hire some RAs. Here are a couple:
+
+  - [SIEPR](https://siepr.stanford.edu/programs/predoctoral-research-fellowship-opportunities)
+  
+  - [Tobin (Yale)](https://tobin.yale.edu/tobin-predoctoral-fellows)
+  
+  - [Columbia Bridge to PhD](https://bridgetophd.facultydiversity.columbia.edu/)
+  
+  - [UVA Bridge to PhD](https://graduate.as.virginia.edu/bridge-doctorate)
+  
+  - [NYU Stern](https://www.stern.nyu.edu/programs-admissions/phd/academics/pre-doctoral-program)
+  
+  - [Stanford GSB](https://www.gsb.stanford.edu/programs/research-fellows)
+  
+  - [EPIC UChicago](https://epic.uchicago.edu/predoctoral-fellows/)
+  
+  - [Opportunity Insights](https://opportunityinsights.org/joinourteam/)
+  
+  - [King Center, Stanford](https://kingcenter.stanford.edu/opportunities/prospective-predoctoral-research-fellows)
+  
+  - [Council of Economic Advisers](https://www.whitehouse.gov/cea/work-for-us/research-assistant/)
+  
+  - [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/about-us/careers/students-and-graduates/)
+  
+  - [DOJ Antitrust](https://www.justice.gov/atr/employment-opportunities-research-analysts)
+
+### My experience
+A little info on my timeline: I started applying to pre-docs in mid-September. I talked to current and former pre-docs through the end of September. I did my first coding task at the end of September, and I made my decision during the first half of October.
+
+At SIEPR my benefits are as follows. Granted I have not actually started, this is my understanding of the benefits when I accepted the job offer. 
+
+  - Stipend > 52k  
+  
+  - [Health insurance](https://vaden.stanford.edu/insurance-referral-office/cardinal-care-overview-benefits) with SIEPR covering premium
+  
+  - One grad course per quarter covered by SIEPR (excluding summer) taken for a grade. 
+  
+  - laptop
+  
+  - Access to on campus housing (besides the first summer if you are coming straight from undergrad)
+  
+  - Access to on campus amenities like libraries, gym etc. 
+  
+  - Mentoring
+  
+  - Pre-doc programming (unsure what this will look like)
+  
+  - Ability to switch mentors if it's not working out. 
+  
+  - 20 leave days and 10 holidays. Leave days are not guaranteed but negotiated with professor. 
+  
+  - J-1 visa sponsorship / OPT eligible (I am not international, so I know less about how this works in practice)
+
+## Historic Work
+
+To be added! Generally advice on OCR technology, its limits, frontiers etc.
+
+
+## Wellesley Specific
+
+Also to be added! Wellesley specific 
+

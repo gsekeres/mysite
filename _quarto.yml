@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "Zahra Thabet"
+  navbar:
+    background: light
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - resources.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
