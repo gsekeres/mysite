@@ -42,7 +42,7 @@ Smarter people have already said a lot of what I think needs to be said. I've in
   
   - What are the norms around co-authorship with pre-docs? How will your work be recognized? 
   
-    - The norms within econ don't match up with other fields. In some fields, it is the norm for RAs who contribute a significant amount of time to a project to become co-authors. In econ, this view is often discounted in favor of pre-docs remaining the in the acknowledgements. Here are some interesting discussions of this phenomenon: [1](https://twitter.com/straightedge/status/1312636836771033089), [2](https://twitter.com/jonj/status/1354171126386208768)
+    - The norms within econ don't match up with other fields. In some fields, it is the norm for RAs who contribute a significant amount of time to a project to become co-authors. In econ, this view is often discounted in favor of pre-docs remaining in the acknowledgements. Here are some interesting discussions of this phenomenon: [1](https://twitter.com/straightedge/status/1312636836771033089), [2](https://twitter.com/jonj/status/1354171126386208768)
   
   - Ask if any of their friends have had a particularly good experience with certain professors. 
 
@@ -67,15 +67,35 @@ Smarter people have already said a lot of what I think needs to be said. I've in
   
   - [Tobin (Yale)](https://tobin.yale.edu/tobin-predoctoral-fellows)
   
+  - [Innovations for Poverty Action](https://www.poverty-action.org/work-with-ipa/current-opportunities)
+  
+  - [J-PAL](https://www.povertyactionlab.org/careers)
+  
+  - [Microsoft Research New England](https://www.microsoft.com/en-us/research/theme/economics-and-computation/predoctoral-researchers/)
+  
   - [Columbia Bridge to PhD](https://bridgetophd.facultydiversity.columbia.edu/)
   
   - [UVA Bridge to PhD](https://graduate.as.virginia.edu/bridge-doctorate)
   
+  - [Michicagn Bridge to PhD](https://michiganross.umich.edu/programs/phd/bridges-program)
+  
   - [NYU Stern](https://www.stern.nyu.edu/programs-admissions/phd/academics/pre-doctoral-program)
+  
+  - [Columbia Business School](https://academics.gsb.columbia.edu/predoctoral-research/predoctoral-fellows-program)
   
   - [Stanford GSB](https://www.gsb.stanford.edu/programs/research-fellows)
   
   - [EPIC UChicago](https://epic.uchicago.edu/predoctoral-fellows/)
+  
+  - [Becker Friedman Institute](https://bfi.uchicago.edu/info-for/prep/)
+  
+  - [Kellog](https://www.kellogg.northwestern.edu/research-support/research-fellows.aspx)
+  
+  - [Harvard Business School](https://www.hbs.edu/ra/pre-doctoral-ras/Pages/default.aspx)
+  
+  - [Fama Miller](https://research.chicagobooth.edu/famamiller/research/research-professionals)
+  
+  - [Chicago Booth](https://www.chicagobooth.edu/faculty/research-staff)
   
   - [Opportunity Insights](https://opportunityinsights.org/joinourteam/)
   
@@ -98,7 +118,7 @@ At SIEPR my benefits are as follows. Granted I have not actually started, this i
   
     - For context, my housing costs will likely be between 1-2.5k per month for me living with my partner within biking distance of campus which we will then split. Off-campus co-ops, some on-campus housing, living further away from campus, and sharing a house with many roommates lowers the costs. I plan on using a bike as a main method of transit. 
   
-  - [Health insurance](https://vaden.stanford.edu/insurance-referral-office/cardinal-care-overview-benefits) with SIEPR covering premium.
+  - [Health insurance](https://vaden.stanford.edu/insurance-referral-office/cardinal-care-overview-benefits) with SIEPR covering the premium.
   
   - One grad course per quarter covered by SIEPR (excluding summer) taken for a grade. 
   
