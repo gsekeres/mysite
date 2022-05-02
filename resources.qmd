@@ -73,12 +73,6 @@ Smarter people have already said a lot of what I think needs to be said. I've in
   
   - [Microsoft Research New England](https://www.microsoft.com/en-us/research/theme/economics-and-computation/predoctoral-researchers/)
   
-  - [Columbia Bridge to PhD](https://bridgetophd.facultydiversity.columbia.edu/)
-  
-  - [UVA Bridge to PhD](https://graduate.as.virginia.edu/bridge-doctorate)
-  
-  - [Michicagn Bridge to PhD](https://michiganross.umich.edu/programs/phd/bridges-program)
-  
   - [NYU Stern](https://www.stern.nyu.edu/programs-admissions/phd/academics/pre-doctoral-program)
   
   - [Columbia Business School](https://academics.gsb.columbia.edu/predoctoral-research/predoctoral-fellows-program)
@@ -106,6 +100,16 @@ Smarter people have already said a lot of what I think needs to be said. I've in
   - [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/about-us/careers/students-and-graduates/)
   
   - [DOJ Antitrust](https://www.justice.gov/atr/employment-opportunities-research-analysts)
+
+### Bridge to PhD Programs
+
+Granted this is a domain I'm a little less familiar with, bridge programs emphasize research, mentoring, and academic work in equal parts. Like pre-docs, they are usually two years long. Here are a couple:
+
+  - [Columbia Bridge to PhD](https://bridgetophd.facultydiversity.columbia.edu/)
+  
+  - [UVA Bridge to PhD](https://graduate.as.virginia.edu/bridge-doctorate)
+  
+  - [Michicagn Bridge to PhD](https://michiganross.umich.edu/programs/phd/bridges-program)
 
 ### My experience
 A little info on my timeline: I started applying to pre-docs in mid-September. I talked to current and former pre-docs through the end of September. I did my first coding task at the end of September, and I made my decision during the first half of October.
