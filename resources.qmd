@@ -1,6 +1,24 @@
 ---
 title: "Resources"
 ---
+## Undergrad Advice
+I am afraid that anything I say will look utterly naive as someone who is just finishing undergrad myself. The only useful resource I have here is the graduate school advice resources I looked at to get a sense of the expectation for classes that I would need to take in undergrad to be a `good' candidate for econ grad school. 
+
+- [Susan Athey's Advice](https://athey.people.stanford.edu/professional-advice)
+
+- [Alvin Christian's Advice](https://drive.google.com/file/d/1QozD6_4_bvMd2o-q-yh9Doc5aQ6i3nPV/view)
+
+- For more grad school specific advice look [here](https://sites.google.com/view/econgradadvice/).
+ 
+- The most helpful places will be looking at the university that you are interested in and seeing if they have information about `ideal' candidates in their application sections. Some are more explicit than others with respect to expected classes etc. 
+
+- Oh also use [GitHub](https://missing.csail.mit.edu/2020/version-control/) to implement version control with your code and backup everything all the time. I use [Tower](https://www.git-tower.com/mac) (included in [Student Developer Pack](https://education.github.com/pack)) to make interacting with GitHub less icky. 
+
+- If you use [Overleaf](https://www.overleaf.com) set up Dropbox integration.
+
+- Use [Zotero](https://www.zotero.org/support/quick_start_guide). 
+
+- [Alex Albright's Thesis Advice](https://thelittledataset.com/undergrad-thesis-resources/)  
 
 ## Pre-Doc Advice and Resources
 Smarter people have already said a lot of what I think needs to be said. I've included a ton of links + some original advice below. 
