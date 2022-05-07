@@ -5,6 +5,8 @@ website:
   title: "Zahra Thabet"
   twitter-card: true
   opengraph: true
+    locale: es_ES
+    site-name: Zahra Thabet
   navbar:
     background: light
     left:
