@@ -1,24 +1,6 @@
 ---
 title: "Resources"
 ---
-## Undergrad Advice
-I am afraid that anything I say will look utterly naive as someone who is just finishing undergrad myself. The only useful resource I have here is the graduate school advice resources I looked at to get a sense of the expectation for classes that I would need to take in undergrad to be a `good' candidate for econ grad school. 
-
-- [Susan Athey's Advice](https://athey.people.stanford.edu/professional-advice)
-
-- [Alvin Christian's Advice](https://drive.google.com/file/d/1QozD6_4_bvMd2o-q-yh9Doc5aQ6i3nPV/view)
-
-- For more grad school specific advice look [here](https://sites.google.com/view/econgradadvice/).
- 
-- The most helpful places will be looking at the university that you are interested in and seeing if they have information about `ideal' candidates in their application sections. Some are more explicit than others with respect to expected classes etc. 
-
-- Oh also use [GitHub](https://missing.csail.mit.edu/2020/version-control/) to implement version control with your code and backup everything all the time. I use [Tower](https://www.git-tower.com/mac) (included in [Student Developer Pack](https://education.github.com/pack)) to make interacting with GitHub less icky. 
-
-- If you use [Overleaf](https://www.overleaf.com) set up Dropbox integration.
-
-- Use [Zotero](https://www.zotero.org/support/quick_start_guide). 
-
-- [Alex Albright's Thesis Advice](https://thelittledataset.com/undergrad-thesis-resources/)  
 
 ## Pre-Doc Advice and Resources
 Smarter people have already said a lot of what I think needs to be said. I've included a ton of links + some original advice below. 
@@ -157,6 +139,73 @@ At SIEPR my benefits are as follows. Granted I have not actually started, this i
   - 20 leave days and 10 holidays. Leave days are not guaranteed but negotiated with professor. 
   
   - J-1 visa sponsorship / OPT eligible (I am not international, so I know less about how this works in practice)
+  
+
+## Undergrad Advice
+I am afraid that anything I say will look utterly naive as someone who is just finishing undergrad myself. The only useful resource I have here is the graduate school advice I looked at to get a sense of what classes I should take now.
+
+- [Susan Athey's Advice](https://athey.people.stanford.edu/professional-advice)
+
+- [Alvin Christian's Advice](https://drive.google.com/file/d/1QozD6_4_bvMd2o-q-yh9Doc5aQ6i3nPV/view)
+
+- For more grad school specific advice look [here](https://sites.google.com/view/econgradadvice/).
+ 
+- The most helpful places will be looking at the university that you are interested in and seeing if they have information about 'ideal' candidates in their application sections. Some are more explicit than others with respect to expected classes etc. 
+
+- Alex Albright's [Thesis Advice](https://thelittledataset.com/undergrad-thesis-resources/)  
+
+### My Setup
+  
+- Things I use everyday
+
+  - [GitHub](https://missing.csail.mit.edu/2020/version-control/) to implement version control with your code.
+    - I use [Tower](https://www.git-tower.com/mac) (included in [Student Developer Pack](https://education.github.com/pack)) to make interacting with GitHub less icky.
+
+  - If you use [Overleaf](https://www.overleaf.com) set up Dropbox integration.
+
+    - I prefer [TexPad](https://www.texpad.com/) (better UI). Can edit documents through Dropbox so it also updates on Overleaf.
+
+  - [Zotero](https://www.zotero.org/support/quick_start_guide) for citation management. 
+
+  - [Toggl Track](https://toggl.com) to track my time. 
+
+  - There's a lot of value in listening to your essays before you submit them. I use [Kurzweil 300](https://www.kurzweil3000.com) (provided through my college's disability office) to do so. 
+
+  - [Zojirushi Stainless Steel Mug](https://www.amazon.com/Zojirushi-SM-KHE48AG-Stainless-Steel-16-Ounce/dp/B005PO9T44)
+  
+  - Backpack rain cover (any brand).
+  
+  - [GoodNotes](https://goodnotes.com/) (enable some kind of syncing so you don't risk losing your notes)
+  
+  - [Notion](https://www.notion.so/) or [Obsidian](https://obsidian.md/) (I oscillate between how much I like either one)
+  
+  - [Privacy Badger](https://privacybadger.org/)
+  
+  - [1Password](https://1password.com/)
+  
+  - [Libby](https://libbyapp.com) (app). Borrow free audiobooks from your library! Really nice UI.
+
+- Portable ergonomic equipment (good for hand/arm pain)
+
+  - [Nextstand](https://nexstand.io/) (h/t [Nic](https://njw.fish/))
+  
+  - [Microsoft Sculpt](https://www.microsoft.com/en-us/d/microsoft-sculpt-ergonomic-desktop/8xk02kz6k69w?activetab=pivot:overviewtab) or [Kyria](https://splitkb.com/products/kyria-pcb-kit?variant=42433243218179)
+  
+  - [Logitech MX Master 3](https://www.logitech.com/en-us/products/mice/mx-master-3.910-005647.html)
+  
+## Coding & Data Visualization 
+
+This doesn't cover any basic stata/R tutorials; these are just some tools I've used in the past.
+
+- [Datawrapper](https://www.datawrapper.de/) is a really cool no-code tool. I generally like to use R to make visualizations but this automatically creates good-looking graphs that are especially useful in presenting summary data.
+
+- [Easily make Tikz Diagrams](https://www.mathcha.io/)
+
+- [Stata2R](https://stata2r.github.io/) Learning R if you know Stata.
+
+- [Quant Econ](https://quantecon.org/lectures/) Python and Julia for Econ.
+
+- I used [Quarto](https://quarto.org/docs/websites/) and [Netlify](https://www.netlify.com/) to build this website.
 
 ## Historic Work
 
