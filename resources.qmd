@@ -3,48 +3,48 @@ title: "Resources"
 ---
 
 ## Pre-Doc Advice and Resources
-Smarter people have already said a lot of what I think needs to be said. I've included a ton of links + some original advice below. 
+Smarter people have already said a lot of what I think needs to be said. I've included a ton of links + some original advice below.
 
-- [EconRA Guide](https://raguide.github.io/): Covers all steps of the pre-doc process. Highly recommend reading through. 
+- [EconRA Guide](https://raguide.github.io/): Covers all steps of the pre-doc process. Highly recommend reading through.
 
-- [Alvin Christian's Advice](https://www.alvinchristian.com/resources): Advice from a recent predoc. 
+- [Alvin Christian's Advice](https://www.alvinchristian.com/resources): Advice from a recent predoc.
 
 - [Women in Econ and Policy Pre-Doc Advice Compilation](https://us17.campaign-archive.com/?u=3d315482a01ddd29e7b7161ac&id=0c0e1b3460)
 
-- [Predoc.org](https://predoc.org/): You might've heard of this. I used it mostly to look for jobs. They host coding and other kinds of workshops that can be helpful. 
+- [Predoc.org](https://predoc.org/): You might've heard of this. I used it mostly to look for jobs. They host coding and other kinds of workshops that can be helpful.
 
-- [Predoc survey](https://z-y-huang.github.io/predoc_survey/slides.pdf): Useful statistics.
+- [Predoc survey](https://z-y-huang.github.io/predoc_survey/slides.pdf): Useful statistics on the industry
 
-- The predoc discourse part [1](https://twitter.com/kearney_melissa/status/1312236608004018178), [2](https://twitter.com/TrevonDLogan/status/1312410038414315525), [3](https://twitter.com/RhondaVSharpe/status/1312522833612861440), [4](https://twitter.com/Claudia_Sahm/status/1411678871393640452), [anon predoc](https://twitter.com/EconPreDocAnon), [6](https://twitter.com/ENPancotti/status/1282332401343946758) (these are only some tweets that I found looking back)
-  
-  - Periodically on Twitter, economics professors and former pre-docs talk about the pros and cons of predocs. These perspectives are really valuable and often not captured in the websites above. 
-  
-  - I went into the process aware of this and it prompted me to be very thorough about the actual work environment of the places I was considering. 
-  
+- The predoc discourse part [1](https://twitter.com/kearney_melissa/status/1312236608004018178), [2](https://twitter.com/TrevonDLogan/status/1312410038414315525), [3](https://twitter.com/RhondaVSharpe/status/1312522833612861440), [4](https://twitter.com/Claudia_Sahm/status/1411678871393640452), [anon predoc](https://twitter.com/EconPreDocAnon) (these are only some tweets that I found looking back)
+
+  - Periodically on Twitter, economics professors and former pre-docs talk about the pros and cons of predocs. These perspectives are really valuable and often not captured in the websites above.
+
+  - I went into the process aware of this and it prompted me to be very thorough about the actual work environment of the places I was considering.
+
 - Talk to previous pre-docs of the person who you want to work for and ask about work hours, expectations, stress, & general environment.
 
   - How many hours a week did they work on average?
-  
-  - How reasonable did they feel like the deadlines were? 
-  
+
+  - How reasonable did they feel like the deadlines were?
+
   - How often did they meet with their PI to talk about their own research ideas, professional growth etc.?
-  
-  - How collaborative was their pre-doc cohort?
-  
+
+  - Is there any pre-doc cohort / how much interaction do they have with other predocs at the institution?
+
   - What is their physical office like? Are there windows? How often are they expected to work in person versus remote?
-  
-  - How is the salary / stipend structured? Were they paid on time? How much of their stipend did they spend on rent? 
-  
-  - What is health insurance like? Do they have to cover the premium?
-  
-  - What opportunities do they have to take graduate-level classes during their pre-doc? Do they have to cover the cost? Is it for a grade or can they only audit? 
-  
-  
-  - What are the norms around co-authorship with pre-docs? How will your work be recognized? 
-  
+
+  - How is the salary / stipend structured? Were they paid on time? How much of their stipend did they spend on rent?
+
+  - What is health insurance like? Who Covers the premium?
+
+  - What opportunities do they have to take graduate-level classes during their pre-doc? Do they have to cover the cost? Is it for a grade or can they only audit?
+
+
+  - What are the norms around co-authorship with pre-docs? How will your work be recognized?
+
     - The norms within econ don't match up with other fields. In some fields, it is the norm for RAs who contribute a significant amount of time to a project to become co-authors. In econ, this view is often discounted in favor of pre-docs remaining in the acknowledgements. Here are some interesting discussions of this phenomenon: [1](https://twitter.com/straightedge/status/1312636836771033089), [2](https://twitter.com/jonj/status/1354171126386208768)
-  
-  - Ask if any of their friends have had a particularly good experience with certain professors. 
+
+  - Ask if any of their friends have had a particularly good or bad experiences with certain professors.
 
 
 ### Finding Jobs
@@ -55,91 +55,87 @@ Smarter people have already said a lot of what I think needs to be said. I've in
 
 - [Econ RA twitter](https://twitter.com/econ_ra)
 
-  - Sometimes this account is a little delayed in retweeting things, I would just search @econ_ra on Twitter to see opportunities that @ them. 
-  
+  - Sometimes this account is a little delayed in retweeting things, I would just search @econ_ra on Twitter to see opportunities that @ them.
+
 - [Econ Job Market](https://econjobmarket.org/market) usually skews towards more international positions.
 
-- [Fed Econ Jobs](https://www.fedeconjobs.org/Branches/AllOpportunities.aspx) it's surprisingly hard to find this website on google, but it contains a lot of good information if you are interested in RA-ing at the Fed. 
+- [Fed Econ Jobs](https://www.fedeconjobs.org/Branches/AllOpportunities.aspx) it's surprisingly hard to find this website on google, but it contains a lot of good information if you are interested in RA-ing at the Fed.
 
 - There are certain programs that regularly hire some RAs. Here are a couple:
 
   - [SIEPR](https://siepr.stanford.edu/programs/predoctoral-research-fellowship-opportunities)
-  
+
   - [Tobin (Yale)](https://tobin.yale.edu/tobin-predoctoral-fellows)
-  
+
   - [Innovations for Poverty Action](https://www.poverty-action.org/work-with-ipa/current-opportunities)
-  
+
   - [J-PAL](https://www.povertyactionlab.org/careers)
-  
+
   - [Microsoft Research New England](https://www.microsoft.com/en-us/research/theme/economics-and-computation/predoctoral-researchers/)
-  
+
   - [NYU Stern](https://www.stern.nyu.edu/programs-admissions/phd/academics/pre-doctoral-program)
-  
+
   - [Columbia Business School](https://academics.gsb.columbia.edu/predoctoral-research/predoctoral-fellows-program)
-  
+
   - [Stanford GSB](https://www.gsb.stanford.edu/programs/research-fellows)
-  
+
   - [EPIC UChicago](https://epic.uchicago.edu/predoctoral-fellows/)
-  
+
   - [Becker Friedman Institute](https://bfi.uchicago.edu/info-for/prep/)
-  
+
   - [Kellog](https://www.kellogg.northwestern.edu/research-support/research-fellows.aspx)
-  
+
   - [Harvard Business School](https://www.hbs.edu/ra/pre-doctoral-ras/Pages/default.aspx)
-  
+
   - [Fama Miller](https://research.chicagobooth.edu/famamiller/research/research-professionals)
-  
+
   - [Chicago Booth](https://www.chicagobooth.edu/faculty/research-staff)
-  
+
   - [Opportunity Insights](https://opportunityinsights.org/joinourteam/)
-  
+
   - [King Center, Stanford](https://kingcenter.stanford.edu/opportunities/prospective-predoctoral-research-fellows)
-  
+
   - [Council of Economic Advisers](https://www.whitehouse.gov/cea/work-for-us/research-assistant/)
-  
+
   - [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/about-us/careers/students-and-graduates/)
-  
+
   - [DOJ Antitrust](https://www.justice.gov/atr/employment-opportunities-research-analysts)
 
-### Bridge to PhD Programs
-
-Granted this is a domain I'm a little less familiar with, bridge programs emphasize research, mentoring, and academic work in equal parts. Like pre-docs, they are usually two years long. Here are a couple:
-
   - [Columbia Bridge to PhD](https://bridgetophd.facultydiversity.columbia.edu/)
-  
+
   - [Michigan Bridge to PhD](https://michiganross.umich.edu/programs/phd/bridges-program)
 
 ### My experience
 A little info on my timeline: I started applying to pre-docs in mid-September. I talked to current and former pre-docs through the end of September. I did my first coding task at the end of September, and I made my decision during the first half of October.
 
-Hopefully, once I start, I'll post more about my actual experience (maybe do one of those day in the life videos?). I'll also try to be transparent about costs of living etc. since that is usually a part of pre-docs that I haven't seen talked about that much. 
 
-At SIEPR my benefits are as follows. Granted I have not actually started, this is my understanding of the benefits when I accepted the job offer. 
+  - Stipend 55k
 
-  - Stipend > 52k  
-  
-    - For context, my housing costs will likely be between 1-2.5k per month for me living with my partner within biking distance of campus which we will then split. Off-campus co-ops, some on-campus housing, living further away from campus, and sharing a house with many roommates lowers the costs. I plan on using a bike as a main method of transit. 
-  
-  - [Health insurance](https://vaden.stanford.edu/insurance-referral-office/cardinal-care-overview-benefits) with SIEPR covering the premium.
-  
-  - One grad course per quarter covered by SIEPR (excluding summer) taken for a grade. 
-  
-  - Laptop
-  
+    - The stipend is deposited quarterly -- the beginning of work was in early July but most people in my cohort were paid for the first time on July 30th.
+
+    - I spend 1.6k on rent per month but I'm moving in the fall and will likely have to spend more.
+
+  - [Health insurance](https://vaden.stanford.edu/insurance-referral-office/cardinal-care-overview-benefits) with SIEPR covering the premium. Insurance is ok -- relative to my [undergrad insurance](https://www.universityhealthplans.com/letters/letter.cgi?group_id=250) I pay slightly more for medical services. There is a hospital on campus which is nice.
+
+  - One grad course per quarter covered by SIEPR (excluding summer) taken for a grade.
+
+  - Work laptop
+
   - Access to on campus housing (besides the first summer if you are coming straight from undergrad)
-  
-  - Access to on campus amenities like libraries, gym etc. 
-  
+
+    - In practice, this isn't quite correct; no predocs in my cohort got fall housing on-campus for the fall through Stanford's lottery.
+    I would say for myself, one of the more stressful parts of the job is getting housing/ moving multiple times within a year and not really knowing that this would happen beforehand.
+
+  - Access to on campus amenities like libraries, gym etc.
+
   - Mentoring
-  
-  - Pre-doc programming (unsure what this will look like)
-  
-  - Ability to switch mentors if it's not working out. 
-  
-  - 20 leave days and 10 holidays. Leave days are not guaranteed but negotiated with professor. 
-  
-  - J-1 visa sponsorship / OPT eligible (I am not international, so I know less about how this works in practice)
-  
+
+  - Pre-doc programming
+
+  - 20 leave days and 10 holidays. Leave days are not guaranteed but negotiated with professor.
+
+  - J-1 visa sponsorship / OPT eligible (I am not an international predoc, so I know less about how this works in practice)
+
 
 ## Undergrad Advice
 I am afraid that anything I say will look utterly naive as someone who is just finishing undergrad myself. The only useful resource I have here is the graduate school advice I looked at to get a sense of what classes I should take now.
@@ -149,13 +145,13 @@ I am afraid that anything I say will look utterly naive as someone who is just f
 - [Alvin Christian's Advice](https://drive.google.com/file/d/1QozD6_4_bvMd2o-q-yh9Doc5aQ6i3nPV/view)
 
 - For more grad school specific advice look [here](https://sites.google.com/view/econgradadvice/).
- 
-- The most helpful places will be looking at the university that you are interested in and seeing if they have information about 'ideal' candidates in their application sections. Some are more explicit than others with respect to expected classes etc. 
 
-- Alex Albright's [Thesis Advice](https://thelittledataset.com/undergrad-thesis-resources/)  
+- The most helpful places will be looking at the university that you are interested in and seeing if they have information about 'ideal' candidates in their application sections. Some are more explicit than others with respect to expected classes etc.
+
+- Alex Albright's [Thesis Advice](https://thelittledataset.com/undergrad-thesis-resources/)
 
 ### My Setup
-  
+
 - Things I use everyday
 
   - [GitHub](https://missing.csail.mit.edu/2020/version-control/) to implement version control with your code.
@@ -165,35 +161,35 @@ I am afraid that anything I say will look utterly naive as someone who is just f
 
     - I prefer [TexPad](https://www.texpad.com/) (better UI). Can edit documents through Dropbox so it also updates on Overleaf.
 
-  - [Zotero](https://www.zotero.org/support/quick_start_guide) for citation management. 
+  - [Zotero](https://www.zotero.org/support/quick_start_guide) for citation management.
 
-  - [Toggl Track](https://toggl.com) to track my time. 
+  - [Toggl Track](https://toggl.com) to track my time.
 
-  - There's a lot of value in listening to your essays before you submit them. I use [Kurzweil 300](https://www.kurzweil3000.com) (provided through my college's disability office) to do so. 
+  - There's a lot of value in listening to your essays before you submit them. I use [Kurzweil 300](https://www.kurzweil3000.com) (provided through my college's disability office) to do so.
 
   - [Zojirushi Stainless Steel Mug](https://www.amazon.com/Zojirushi-SM-KHE48AG-Stainless-Steel-16-Ounce/dp/B005PO9T44)
-  
+
   - Backpack rain cover (any brand).
-  
+
   - [GoodNotes](https://goodnotes.com/) (enable some kind of syncing so you don't risk losing your notes)
-  
+
   - [Notion](https://www.notion.so/) or [Obsidian](https://obsidian.md/) (I oscillate between how much I like either one)
-  
+
   - [Privacy Badger](https://privacybadger.org/)
-  
+
   - [1Password](https://1password.com/)
-  
+
   - [Libby](https://libbyapp.com) (app). Borrow free audiobooks from your library! Really nice UI.
 
 - Portable ergonomic equipment (good for hand/arm pain)
 
   - [Nextstand](https://nexstand.io/) (h/t [Nic](https://njw.fish/))
-  
+
   - [Microsoft Sculpt](https://www.microsoft.com/en-us/d/microsoft-sculpt-ergonomic-desktop/8xk02kz6k69w?activetab=pivot:overviewtab) or [Kyria](https://splitkb.com/products/kyria-pcb-kit?variant=42433243218179)
-  
+
   - [Logitech MX Master 3](https://www.logitech.com/en-us/products/mice/mx-master-3.910-005647.html)
-  
-## Coding & Data Visualization 
+
+## Coding & Data Visualization
 
 This doesn't cover any basic stata/R tutorials; these are just some tools I've used in the past.
 
@@ -214,5 +210,4 @@ To be added! Generally advice on OCR technology, its limits, frontiers etc.
 
 ## Wellesley Specific
 
-Also to be added! Wellesley specific 
-
+Also to be added! Wellesley specific
