@@ -2,14 +2,14 @@
 title: "Resources"
 ---
 
-## Pre-Doc Advice and Resources
+## predoc Advice and Resources
 Smarter people have already said a lot of what I think needs to be said. I've included a ton of links + some original advice below.
 
-- [EconRA Guide](https://raguide.github.io/): Covers all steps of the pre-doc process. Highly recommend reading through.
+- [EconRA Guide](https://raguide.github.io/): Covers all steps of the predoc process. Highly recommend reading through.
 
 - [Alvin Christian's Advice](https://www.alvinchristian.com/resources): Advice from a recent predoc.
 
-- [Women in Econ and Policy Pre-Doc Advice Compilation](https://us17.campaign-archive.com/?u=3d315482a01ddd29e7b7161ac&id=0c0e1b3460)
+- [Women in Econ and Policy predoc Advice Compilation](https://us17.campaign-archive.com/?u=3d315482a01ddd29e7b7161ac&id=0c0e1b3460)
 
 - [Predoc.org](https://predoc.org/): You might've heard of this. I used it mostly to look for jobs. They host coding and other kinds of workshops that can be helpful.
 
@@ -17,11 +17,11 @@ Smarter people have already said a lot of what I think needs to be said. I've in
 
 - The predoc discourse part [1](https://twitter.com/kearney_melissa/status/1312236608004018178), [2](https://twitter.com/TrevonDLogan/status/1312410038414315525), [3](https://twitter.com/RhondaVSharpe/status/1312522833612861440), [4](https://twitter.com/Claudia_Sahm/status/1411678871393640452), [anon predoc](https://twitter.com/EconPreDocAnon) (these are only some tweets that I found looking back)
 
-  - Periodically on Twitter, economics professors and former pre-docs talk about the pros and cons of predocs. These perspectives are really valuable and often not captured in the websites above.
+  - Periodically on Twitter, economics professors and former predocs talk about the pros and cons of predocs. These perspectives are really valuable and often not captured in the websites above.
 
   - I went into the process aware of this and it prompted me to be very thorough about the actual work environment of the places I was considering.
 
-- Talk to previous pre-docs of the person who you want to work for and ask about work hours, expectations, stress, & general environment.
+- Talk to previous predocs of the person who you want to work for and ask about work hours, expectations, stress, & general environment.
 
   - How many hours a week did they work on average?
 
@@ -29,7 +29,7 @@ Smarter people have already said a lot of what I think needs to be said. I've in
 
   - How often did they meet with their PI to talk about their own research ideas, professional growth etc.?
 
-  - Is there any pre-doc cohort / how much interaction do they have with other predocs at the institution?
+  - Is there any predoc cohort / how much interaction do they have with other predocs at the institution?
 
   - What is their physical office like? Are there windows? How often are they expected to work in person versus remote?
 
@@ -37,12 +37,13 @@ Smarter people have already said a lot of what I think needs to be said. I've in
 
   - What is health insurance like? Who covers the premium?
 
-  - What opportunities do they have to take graduate-level classes during their pre-doc? Do they have to cover the cost? Is it for a grade or can they only audit?
+  - What opportunities do they have to take graduate-level classes during their predoc? Do they have to cover the cost? Is it for a grade or can they only audit?
 
+  - What graduate programs did the previous predocs end up in?
 
-  - What are the norms around co-authorship with pre-docs? How will your work be recognized?
+  - What are the norms around co-authorship with predocs? How will your work be recognized?
 
-    - The norms within econ don't match up with other fields. In some fields, it is the norm for RAs who contribute a significant amount of time to a project to become co-authors. In econ, this view is often discounted in favor of pre-docs remaining in the acknowledgements. Here are some interesting discussions of this phenomenon: [1](https://twitter.com/straightedge/status/1312636836771033089), [2](https://twitter.com/jonj/status/1354171126386208768)
+    - The norms within econ don't match up with other fields. In some fields, it is the norm for RAs who contribute a significant amount of time to a project to become co-authors. In econ, this view is often discounted in favor of predocs remaining in the acknowledgements. Here are some interesting discussions of this phenomenon: [1](https://twitter.com/straightedge/status/1312636836771033089), [2](https://twitter.com/jonj/status/1354171126386208768)
 
   - Ask if any of their friends have had a particularly good or bad experiences with certain professors.
 
@@ -73,7 +74,7 @@ Smarter people have already said a lot of what I think needs to be said. I've in
 
   - [Microsoft Research New England](https://www.microsoft.com/en-us/research/theme/economics-and-computation/predoctoral-researchers/)
 
-  - [NYU Stern](https://www.stern.nyu.edu/programs-admissions/phd/academics/pre-doctoral-program)
+  - [NYU Stern](https://www.stern.nyu.edu/programs-admissions/phd/academics/predoctoral-program)
 
   - [Columbia Business School](https://academics.gsb.columbia.edu/predoctoral-research/predoctoral-fellows-program)
 
@@ -85,7 +86,7 @@ Smarter people have already said a lot of what I think needs to be said. I've in
 
   - [Kellogg](https://www.kellogg.northwestern.edu/research-support/research-fellows.aspx)
 
-  - [Harvard Business School](https://www.hbs.edu/ra/pre-doctoral-ras/Pages/default.aspx)
+  - [Harvard Business School](https://www.hbs.edu/ra/predoctoral-ras/Pages/default.aspx)
 
   - [Fama Miller](https://research.chicagobooth.edu/famamiller/research/research-professionals)
 
@@ -106,7 +107,7 @@ Smarter people have already said a lot of what I think needs to be said. I've in
   - [Michigan Bridge to PhD](https://michiganross.umich.edu/programs/phd/bridges-program)
 
 ### My experience
-A little info on my timeline: I started applying to pre-docs in mid-September. I talked to current and former pre-docs through the end of September. I did my first coding task at the end of September, and I made my decision during the first half of October.
+A little info on my timeline: I started applying to predocs in mid-September. I talked to current and former predocs through the end of September. I did my first coding task at the end of September, and I made my decision during the first half of October.
 
 
   - Stipend 55k
@@ -130,7 +131,7 @@ A little info on my timeline: I started applying to pre-docs in mid-September. I
 
   - Mentoring
 
-  - Pre-doc programming
+  - predoc programming
 
   - 20 leave days and 10 holidays. Leave days are not guaranteed but negotiated with professor.
 
@@ -180,6 +181,8 @@ I am afraid that anything I say will look utterly naive as someone who is just f
   - [1Password](https://1password.com/)
 
   - [Libby](https://libbyapp.com) (app). Borrow free audiobooks from your library! Really nice UI.
+
+  - [Fantastical] Now that I have five emails, its nice being able to have all of the calendars in one place + good UI for scheduling meetings.
 
 - Portable ergonomic equipment (good for hand/arm pain)
 
