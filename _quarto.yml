@@ -1,10 +1,9 @@
-project:
+iproject:
   type: website
 
 website:
   title: "Zahra Thabet"
   twitter-card: true
-  opengraph: true
   navbar:
     background: light
     left:
