@@ -15,12 +15,6 @@ Smarter people have already said a lot of what I think needs to be said. I've in
 
 - [Predoc survey](https://z-y-huang.github.io/predoc_survey/slides.pdf): Useful statistics on the industry
 
-- The predoc discourse part [1](https://twitter.com/kearney_melissa/status/1312236608004018178), [2](https://twitter.com/TrevonDLogan/status/1312410038414315525), [3](https://twitter.com/RhondaVSharpe/status/1312522833612861440), [4](https://twitter.com/Claudia_Sahm/status/1411678871393640452), [anon predoc](https://twitter.com/EconPreDocAnon) (these are only some tweets that I found looking back)
-
-  - Periodically on Twitter, economics professors and former predocs talk about the pros and cons of predocs. These perspectives are really valuable and often not captured in the websites above.
-
-  - I went into the process aware of this and it prompted me to be very thorough about the actual work environment of the places I was considering.
-
 - Talk to previous predocs of the person who you want to work for and ask about work hours, expectations, stress, & general environment.
 
   - How many hours a week did they work on average?
@@ -64,29 +58,31 @@ Smarter people have already said a lot of what I think needs to be said. I've in
 
 - There are certain programs that regularly hire some RAs. Here are a couple:
 
-  - [SIEPR](https://siepr.stanford.edu/programs/predoctoral-research-fellowship-opportunities)
+  - [PhD Excellence Initiative](https://www.peterblairhenry.com/phd-excellence-initiative/)
 
-  - [Tobin (Yale)](https://tobin.yale.edu/tobin-predoctoral-fellows)
+  - [SIEPR (Stanford)](https://siepr.stanford.edu/programs/predoctoral-research-fellowship-opportunities)
+
+  - [Tobin (Yale)](https://tobin.yale.edu/programs/pre-doctoral-fellows-program/apply)
 
   - [Innovations for Poverty Action](https://www.poverty-action.org/work-with-ipa/current-opportunities)
 
   - [J-PAL](https://www.povertyactionlab.org/careers)
 
-  - [Microsoft Research New England](https://www.microsoft.com/en-us/research/theme/economics-and-computation/predoctoral-researchers/)
+  - [Microsoft Research New England](https://www.microsoft.com/en-us/research/group/microsoft-research-pre-doctoral-research-assistant-program/)
 
-  - [NYU Stern](https://www.stern.nyu.edu/programs-admissions/phd/academics/predoctoral-program)
+  - [NYU Stern](https://www.stern.nyu.edu/programs-admissions/phd/academics/pre-doctoral-program)
 
   - [Columbia Business School](https://academics.gsb.columbia.edu/predoctoral-research/predoctoral-fellows-program)
 
   - [Stanford GSB](https://www.gsb.stanford.edu/programs/research-fellows)
 
-  - [EPIC UChicago](https://epic.uchicago.edu/predoctoral-fellows/)
+  - [EPIC UChicago](https://epic.uchicago.edu/about/jobs-fellowships/fellowships/predoctoral-fellowship-program/)
 
   - [Becker Friedman Institute](https://bfi.uchicago.edu/info-for/prep/)
 
   - [Kellogg](https://www.kellogg.northwestern.edu/research-support/research-fellows.aspx)
 
-  - [Harvard Business School](https://www.hbs.edu/ra/predoctoral-ras/Pages/default.aspx)
+  - [Harvard Business School](https://www.hbs.edu/predoctoral)
 
   - [Fama Miller](https://research.chicagobooth.edu/famamiller/research/research-professionals)
 
@@ -107,22 +103,21 @@ Smarter people have already said a lot of what I think needs to be said. I've in
   - [Michigan Bridge to PhD](https://michiganross.umich.edu/programs/phd/bridges-program)
 
 ### My experience
-A little info on my timeline: I started applying to predocs in mid-September. I talked to current and former predocs through the end of September. I did my first coding task at the end of September, and I made my decision during the first half of October.
+A little info on my timeline (I applied in the fall of 2021). I started applying to predocs in mid-September. I talked to current and former predocs through the end of September. I did my first coding task at the end of September, and I made my decision during the first half of October.
 
-
-  - Stipend 55k
+  - Stipend 58.5k
 
     - The stipend is deposited quarterly -- the beginning of work was in early July but most people in my cohort were paid for the first time on July 30th.
 
-    - I spend 1.6k on rent per month but I'm moving in the fall and will likely have to spend more.
+    - I spent 1.05k on rent last year and now am spending 2.1k this year.
 
-  - [Health insurance](https://vaden.stanford.edu/insurance-referral-office/cardinal-care-overview-benefits) with SIEPR covering the premium. Insurance is ok -- relative to my [undergrad insurance](https://www.universityhealthplans.com/letters/letter.cgi?group_id=250) I pay slightly more for medical services. There is a hospital on campus which is nice.
+  - [Health insurance](https://vaden.stanford.edu/insurance-referral-office/cardinal-care-overview-benefits) with SIEPR covering the premium. I find that I dont pay more than $20 for routine services and $100 for ER services. There is a hospital on campus which is nice.
 
-  - One grad course per quarter covered by SIEPR (excluding summer) taken for a grade.
+  - One grad course per quarter at Stanford covered by SIEPR (excluding summer).
 
   - Work laptop
 
-  - Access to on campus housing (besides the first summer if you are coming straight from undergrad)
+  - Access to on campus housing
 
     - In practice, this isn't quite correct; no predocs in my cohort got fall housing on-campus through Stanford's lottery.
     I would say for myself, one of the more stressful parts of the job is getting housing/ moving multiple times within a year and not really knowing that this would happen beforehand.
@@ -160,21 +155,15 @@ I am afraid that anything I say will look utterly naive as someone who is just f
 
   - If you use [Overleaf](https://www.overleaf.com) set up Dropbox integration.
 
-    - I prefer [TexPad](https://www.texpad.com/) (better UI). Can edit documents through Dropbox so it also updates on Overleaf.
+    - I prefer [Texifier](https://www.texifier.com/) (better UI). Can edit documents through Dropbox so it also updates on Overleaf.
 
   - [Zotero](https://www.zotero.org/support/quick_start_guide) for citation management.
 
-  - [Toggl Track](https://toggl.com) to track my time.
-
   - There's a lot of value in listening to your essays before you submit them. I use [Kurzweil 300](https://www.kurzweil3000.com) (provided through my college's disability office) to do so.
-
-  - [Zojirushi Stainless Steel Mug](https://www.amazon.com/Zojirushi-SM-KHE48AG-Stainless-Steel-16-Ounce/dp/B005PO9T44)
-
-  - Backpack rain cover (any brand).
 
   - [GoodNotes](https://goodnotes.com/) (enable some kind of syncing so you don't risk losing your notes)
 
-  - [Notion](https://www.notion.so/) or [Obsidian](https://obsidian.md/) (I oscillate between how much I like either one)
+  - I prefer the simplicity of [Obsidian](https://obsidian.md/) over [Notion](https://www.notion.so/)
 
   - [Privacy Badger](https://privacybadger.org/)
 
