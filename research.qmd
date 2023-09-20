@@ -1,0 +1,25 @@
+---
+title: "Research"
+---
+
+
+## Peer-Reviewed Articles
+
+ - Parameswaran, G., __Sekeres, G.__, and Goldblatt, H. `The Politics of the Slippery Slope.' R & R at the _Journal of Politics_.
+
+ - Dixit, A., __Sekeres, G.__, Mariano, E., Memtsoudis, S., and Sun, E. `Association of Patient Characteristics and Hospital Choice with Utilization of Regional Anesthesia in Total Knee Arthroplasty: A Retrospective Analysis Using Medicare Claims.' R & R at _Anesthesiology_.
+
+ - __Sekeres, G.__, Miller, T., Mariano, E., Glance, L., and Sun, E. `Correlation Between Anesthesia Group Size and Merit-Based Incentive Payment System (MIPS) Scores.' R & R at _Anesthesiology_.
+
+## Senior Thesis
+
+ - __Sekeres, G.__, [The Effects of Communication on a Middle Equilibrium in Prisoner's Dilemma](/gabe_sekeres_thesis.pdf). 2022.
+ 
+ 
+## In Progress
+
+ - Prosecutorial Discretion and Plea Bargains Under Incomplete Information: I'm modeling plea bargains in the case where the prosecutor does not have to reveal evidence to the defendant (common across the US for most evidence, localized to certain states for _Brady_ evidence, which is called a `closed-file regime'). This is a play on Bebchuk (1984) and Silviera (2017), and I think adding a two-sided information disparity based on the same underlying distribution adds nuance to their models which better fits the observed.
+ 
+ - Cross-time Empirical Revealed Preferences: This is very much in the conception stage, but I think there's something to the idea of implied continuity of preferences over time (_i.e._, continuously changing preferences derived from discrete observations of preferences). I'm doing PhD apps this semester, though, so this is on the back burner.
+ 
+ 

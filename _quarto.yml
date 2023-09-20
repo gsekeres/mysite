@@ -2,15 +2,15 @@ project:
   type: website
 
 website:
-  title: "Zahra Thabet"
+  title: "Gabe Sekeres"
   twitter-card: true
   navbar:
     background: light
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - resources.qmd
+      - research.qmd
+      - cv.qmd
 
 format:
   html:
