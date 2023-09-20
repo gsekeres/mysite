@@ -1,8 +1,7 @@
 ---
 title: "CV"
 ---
+
 My C.V. is available [here](/gabe_sekeres_cv.pdf) in PDF format, [here](CV.zip) in tex source, and directly below this paragraph in an embedded png. I shamelessly stole the template from [Zahra Thabet](https://zahrathabet.com/), from whom I also stole this website format. Imitation is the sincerest form of flattery.
 
-![](/gabe_sekeres_cv_pg1.png)
-![](/gabe_sekeres_cv_pg2.png)
----
+![](/gabe_sekeres_cv_pg1.png) ![](/gabe_sekeres_cv_pg2.png) ---
