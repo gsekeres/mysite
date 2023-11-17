@@ -11,6 +11,7 @@ website:
         text: Home
       - research.qmd
       - cv.qmd
+      - ws.qmd
 
 format:
   html:
