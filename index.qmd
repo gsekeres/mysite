@@ -19,13 +19,15 @@ about:
       text: GitHub
       href: https://github.com/gsekeres
 ---
-I'm a [Predoctoral Research Fellow at SIEPR](https://siepr.stanford.edu/programs/predoctoral-research-fellowship-opportunities) where I work with Professor [Laurence Baker](https://healthpolicy.fsi.stanford.edu/people/laurence_c_baker) and Professor [Eric Sun](https://profiles.stanford.edu/eric-sun) on Health Economics.
+My name is Gabe Sekeres, I'm an incoming PhD student in Economics at Cornell University! 
 
-I graduated from Haverford College in 2022, where I majored in Economics and Mathematics, and completed enough Political Science courses for a major if I had written a thesis. My senior thesis was [The Effects of Communication on a Middle Equilibrium in Prisoner's Dilemma](/gabe_sekeres_thesis.pdf).
+I'm interested in microeconomic theory, and am currently working on an applied theory project which models the criminal plea bargaining process while incorporating recent qualitative law research, and a science of science project on innovation-replication tradeoffs, with [Nic Fishman](https://njw.fish/). On the back burner, I think there's something very interesting in computational constraints in game theory, and how they connect with theories of obvious dominance. 
 
-My research interests are Political Economy theory, specifically using game theory to analyze institutions and those who staff them. I'm currently working on a project about plea bargains under closed-file _Brady_&nbsp; regimes. I'm always down to talk about it, so feel free to reach out!
+More generally, I've been thinking about causal inference and machine learning a lot recently, and am looking for opportunities to combine my experience in micro theory with modern, especially game theoretic, research in econometrics and computer science.
 
-In my free time, I enjoy watching long video essays and taking pictures of bugs on 35mm film. 
+I graduated from Haverford College in 2022, where I majored in Economics and Mathematics. My senior thesis was [The Effects of Communication on a Middle Equilibrium in Prisoner's Dilemma](/gabe_sekeres_thesis.pdf). After that, I was a [Predoctoral Research Fellow at SIEPR](https://siepr.stanford.edu/programs/predoctoral-research-fellowship-opportunities) where I worked with Professor [Laurence Baker](https://healthpolicy.fsi.stanford.edu/people/laurence_c_baker) and Professor [Eric Sun](https://profiles.stanford.edu/eric-sun) on Health Economics. 
+
+I'm always happy to chat about research, or anything else. In my free time, I love watching boring movies and reading dense novels. You can reach me at my [email](mailto:gsekeres@stanford.edu) or on [twitter](https://twitter.com/GabeSekeres).
 
 
 

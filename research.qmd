@@ -5,28 +5,19 @@ title: "Research"
 
 ## Peer-Reviewed Publications
 
- - Dixit, A., __Sekeres, G.__, Mariano, E., Memtsoudis, S., and Sun, E. (2023) ["Association of Patient Race and Hospital with Utilization of Regional Anesthesia for Treatment of Post-Operative Pain in Total Knee Arthroplasty: A Retrospective Analysis Using Medicare Claims."](https://pubs.asahq.org/anesthesiology/article-abstract/doi/10.1097/ALN.0000000000004827/139375/Association-of-Patient-Race-and-Hospital-with?redirectedFrom=fulltext) _Anesthesiology_. doi: [10.1097/ALN.0000000000004827](https://doi.org/10.1097/ALN.0000000000004827)
- 
- 
-## Under Review
+ - Parameswaran, G., __Sekeres, G.__, and Goldblatt, H. [The Politics of the Slippery Slope.](/gsekeres_slippery_slope.pdf) Forthcoming at the _Journal of Politics_. [Appendix](/gsekeres_slippery_slope_appendix.pdf)
 
- - Parameswaran, G., __Sekeres, G.__, and Goldblatt, H. "The Politics of the Slippery Slope." R & R at the _Journal of Politics_.
-
- - __Sekeres, G.__, Miller, T., Mariano, E., Glance, L., and Sun, E. "Correlation Between Anesthesia Group Size and Merit-Based Incentive Payment System (MIPS) Scores." R & R at _Anesthesiology_.
+ - Dixit, A., __Sekeres, G.__, Mariano, E., Memtsoudis, S., and Sun, E. (2024) [Association of Patient Race and Hospital with Utilization of Regional Anesthesia for Treatment of Post-Operative Pain in Total Knee Arthroplasty: A Retrospective Analysis Using Medicare Claims.](/gsekeres_tka_paper.pdf) _Anesthesiology_. doi: [10.1097/ALN.0000000000004827](https://doi.org/10.1097/ALN.0000000000004827)
  
- 
-## Working Papers
+ - __Sekeres, G.__, Miller, T., Mariano, E., Glance, L., and Sun, E. [Association Between Anesthesia Group Size and Merit-Based Incentive Payment System Scores](/gsekeres_mips_paper.pdf) _Anesthesiology_. doi:[10.1097/ALN.0000000000004887](https://doi.org/10.1097/ALN.0000000000004887)
 
- - [A New Theory on Plea Bargains in Criminal Procedure](/plea_bargains_current.pdf) (also my PhD writing sample)
- 
- Abstract: I present a new model of plea bargaining before criminal trials. Two specific modifications are made from the canonical models (Bebchuk (1984) and Reinganum (1988)) -- I assume that the defendant's inherent guilt is immaterial to the trial outcome, instead relying only on the evidence available to be presented, and I assume that the prosecutor knows the true value of the evidence while the defendant knows only the bounds. I find that the decisions in equilibrium rely mainly on the maximum possible evidence the prosecutor _could_ have, rather than the evidence they _actually_ have. This result implies that plea bargains do not effectively sort innocent and guilty defendants. 
-
- - __Sekeres, G.__, [The Effects of Communication on a Middle Equilibrium in Prisoner's Dilemma](/gabe_sekeres_thesis.pdf). 2022. (Senior Thesis)
  
 ## Currently Thinking About 
  
- - Cross-time Empirical Revealed Preferences: This is very much in the conception stage, but I think there's something to the idea of implied continuity of preferences over time (_i.e._, continuously changing preferences derived from discrete observations of preferences). I'm doing PhD apps this semester, though, so this is on the back burner.
+ - Plea bargains -- the canon of theory regarding criminal plea bargains tends to involve information asymmetries where the defendant has the advantage (because they know whether or not they are guilty). This goes against a recent literature in law, which finds that prosecutors have a distinct advantage in knowing what evidence they can present, an advantage that leads to a significant number of innocent defendants pleading guilty. I'm working on developing a model that incorporates these findings, and explores the impact of prosecutorial discretion in charging on the bargaining process.
  
- - Networks of information sharing re: medical knowledge over time -- how fast does is spread, where does it go, when do independent discoveries become merged. Thinking about this with [Marissa Hindelang](https://www.linkedin.com/in/marissa-hindelang/?originalSubdomain=es)
+ - The replication crisis and various solutions to it. Incorporating dynamics into these models is fun and interesting -- watch this space.
+ 
+ - How do very good chess players make decisions? Do they run a bad tree search, use heuristics, both, or neither? Answering this question seems interesting -- intuitively, this would seem like a space where obvious dominance applies, but clearly very good chess players can make better moves than average chess players even when there don't exist dominant strategies reachable in a reasonable amount of time. That's an interesting fact.
  
  
