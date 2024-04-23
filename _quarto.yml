@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Gabe Sekeres"
+  favicon: favicon.png
   twitter-card: true
   navbar:
     background: light

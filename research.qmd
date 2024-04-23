@@ -9,7 +9,7 @@ title: "Research"
 
  - Dixit, A., __Sekeres, G.__, Mariano, E., Memtsoudis, S., and Sun, E. (2024) [Association of Patient Race and Hospital with Utilization of Regional Anesthesia for Treatment of Post-Operative Pain in Total Knee Arthroplasty: A Retrospective Analysis Using Medicare Claims.](/gsekeres_tka_paper.pdf) _Anesthesiology_. doi: [10.1097/ALN.0000000000004827](https://doi.org/10.1097/ALN.0000000000004827)
  
- - __Sekeres, G.__, Miller, T., Mariano, E., Glance, L., and Sun, E. [Association Between Anesthesia Group Size and Merit-Based Incentive Payment System Scores](/gsekeres_mips_paper.pdf) _Anesthesiology_. doi:[10.1097/ALN.0000000000004887](https://doi.org/10.1097/ALN.0000000000004887)
+ - __Sekeres, G.__, Miller, T., Mariano, E., Glance, L., and Sun, E. (2024) [Association Between Anesthesia Group Size and Merit-Based Incentive Payment System Scores](/gsekeres_mips_paper.pdf) _Anesthesiology_. doi:[10.1097/ALN.0000000000004887](https://doi.org/10.1097/ALN.0000000000004887)
 
  
 ## Currently Thinking About 
