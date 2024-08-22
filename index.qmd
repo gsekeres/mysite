@@ -1,27 +1,44 @@
 ---
-title: "Home"
+title: "Gabe Sekeres"
 image: headshot.jpeg
 about:
-  template: solana
-  image-width: 10em
+  template: trestles
+  image-width: 20em
   image-shape: rounded
   links:
+    - icon: envelope
+      text: Email
+      href: mailto:gs754@cornell.edu
     - icon: twitter
       text: Twitter
-      href: https://twitter.com/zahra_thab
+      href: https://twitter.com/GabeSekeres
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com/in/zthab
+      href: https://www.linkedin.com/in/gabriel-sekeres-0526aa174
     - icon: github
-      text: Github
-      href: https://github.com/zthab
+      text: GitHub
+      href: https://github.com/gsekeres
 ---
-I'm a [Predoctoral Research Fellow at SIEPR](https://siepr.stanford.edu/programs/predoctoral-research-fellowship-opportunities) where I work with Professor [Neale Mahoney](https://nmahoney.people.stanford.edu/). 
+My name is Gabe Sekeres, I'm a first-year PhD student in Economics at Cornell University! 
 
-Previously, I was a predoctoral fellow for [Heidi Williams](https://sites.google.com/view/heidi-l-williams/home) where I researched metascience. In a previous life, I was an undegraduate at [Wellesley College](https://www.wellesley.edu/) where I studied economics and math. In my free time I powerlift.
+I'm interested in microeconomic theory, and am currently working on an applied theory project which models the criminal plea bargaining process while incorporating recent qualitative law research, and a science of science project on innovation-replication tradeoffs, with [Nic Fishman](https://njw.fish/). On the back burner, I think there's something very interesting in computational constraints in game theory, and how they connect with theories of obvious dominance. 
 
-I'm broadly interested in topics of health and household finance economics.
+More generally, I've been thinking about causal inference and machine learning a lot recently, and am looking for opportunities to combine my experience in micro theory with modern, especially game theoretic, research in econometrics and computer science.
 
-[My C.V. is available here.](/zahra_thabet_cv.pdf)
+I graduated from Haverford College in 2022, where I majored in Economics and Mathematics. My senior thesis was [The Effects of Communication on a Middle Equilibrium in Prisoner's Dilemma](/gabe_sekeres_thesis.pdf). After that, I was a [Predoctoral Research Fellow at SIEPR](https://siepr.stanford.edu/programs/predoctoral-research-fellowship-opportunities) where I worked with Professor [Laurence Baker](https://healthpolicy.fsi.stanford.edu/people/laurence_c_baker) and Professor [Eric Sun](https://profiles.stanford.edu/eric-sun) on Health Economics. 
+
+I'm always happy to chat about research, or anything else. In my free time, I love watching boring movies and reading dense novels. You can reach me at my [email](mailto:gs754@cornell.edu) or on [twitter](https://twitter.com/GabeSekeres).
+
+
+
+
+
+
+
+
+
+
+
+
 
 
