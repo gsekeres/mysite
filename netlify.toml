@@ -8,6 +8,6 @@
     export PATH="$PATH:$(pwd)/quarto-1.4.537/bin" && \
     python -m pip install --upgrade pip && \
     python -m pip install jupyter && \
-    quarto render
+    quarto render *.qmd --no-clean
   """
   publish = "_site"
