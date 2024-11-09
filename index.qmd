@@ -1,6 +1,6 @@
 ---
 title: "Gabe Sekeres"
-image: headshot.jpeg
+image: headshot.jpg
 about:
   template: trestles
   image-width: 20em

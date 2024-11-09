@@ -1,0 +1,23 @@
+---
+title: "Research"
+---
+
+
+## Peer-Reviewed Publications
+
+ - Parameswaran, G., __Sekeres, G.__, and Goldblatt, H. [The Politics of the Slippery Slope.](/gsekeres_slippery_slope.pdf) Forthcoming at the _Journal of Politics_. [Appendix](/gsekeres_slippery_slope_appendix.pdf)
+
+ - Dixit, A., __Sekeres, G.__, Mariano, E., Memtsoudis, S., and Sun, E. (2024) [Association of Patient Race and Hospital with Utilization of Regional Anesthesia for Treatment of Post-Operative Pain in Total Knee Arthroplasty: A Retrospective Analysis Using Medicare Claims.](/gsekeres_tka_paper.pdf) _Anesthesiology_. doi: [10.1097/ALN.0000000000004827](https://doi.org/10.1097/ALN.0000000000004827)
+ 
+ - __Sekeres, G.__, Miller, T., Mariano, E., Glance, L., and Sun, E. (2024) [Association Between Anesthesia Group Size and Merit-Based Incentive Payment System Scores](/gsekeres_mips_paper.pdf) _Anesthesiology_. doi:[10.1097/ALN.0000000000004887](https://doi.org/10.1097/ALN.0000000000004887)
+
+ 
+## Currently Thinking About 
+ 
+ - Plea bargains -- the canon of theory regarding criminal plea bargains tends to involve information asymmetries where the defendant has the advantage (because they know whether or not they are guilty). This goes against a recent literature in law, which finds that prosecutors have a distinct advantage in knowing what evidence they can present, an advantage that leads to a significant number of innocent defendants pleading guilty. I'm working on developing a model that incorporates these findings, and explores the impact of prosecutorial discretion in charging on the bargaining process.
+ 
+ - The replication crisis and various solutions to it. Incorporating dynamics into these models is fun and interesting -- watch this space.
+ 
+ - How do very good chess players make decisions? Do they run a bad tree search, use heuristics, both, or neither? Answering this question seems interesting -- intuitively, this would seem like a space where obvious dominance applies, but clearly very good chess players can make better moves than average chess players even when there don't exist dominant strategies reachable in a reasonable amount of time. That's an interesting fact.
+ 
+ 
