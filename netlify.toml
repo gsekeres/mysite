@@ -3,9 +3,9 @@
 
 [build]
   command = """
-    curl -LO https://github.com/quarto-dev/quarto-cli/releases/download/v1.4.549/quarto-1.4.549-linux-amd64.tar.gz && \
-    tar -xzf quarto-1.4.549-linux-amd64.tar.gz && \
-    export PATH="$PATH:$(pwd)/quarto-1.4.549/bin" && \
+    curl -LO https://github.com/quarto-dev/quarto-cli/releases/download/v1.4.537/quarto-1.4.537-linux-amd64.tar.gz && \
+    tar -xzf quarto-1.4.537-linux-amd64.tar.gz && \
+    export PATH="$PATH:$(pwd)/quarto-1.4.537/bin" && \
     python -m pip install --upgrade pip && \
     python -m pip install jupyter && \
     quarto render
