@@ -22,7 +22,6 @@ format:
 
 extensions:
   - jmgirard/embedpdf
-  - quarto-ext/listing
 
 
 

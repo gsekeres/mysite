@@ -2,5 +2,14 @@
   PYTHON_VERSION = "3.9"
 
 [build]
-  command = "wget https://github.com/quarto-dev/quarto-cli/releases/download/v1.4.537/quarto-1.4.537-linux-amd64.tar.gz && tar -xvf quarto-1.4.537-linux-amd64.tar.gz && export PATH=\"$PATH:$(pwd)/quarto-1.4.537/bin\" && python -m pip install --upgrade pip && python -m pip install jupyter && quarto install extension quarto-ext/listing --no-prompt && quarto install extension jmgirard/embedpdf --no-prompt && quarto install extension quarto/title-block --no-prompt && quarto render index.qmd about.qmd cv.qmd research.qmd resources.qmd ws.qmd"
+  command = """
+    wget https://github.com/quarto-dev/quarto-cli/releases/download/v1.4.537/quarto-1.4.537-linux-amd64.tar.gz && \
+    tar -xvf quarto-1.4.537-linux-amd64.tar.gz && \
+    export PATH="$PATH:$(pwd)/quarto-1.4.537/bin" && \
+    python -m pip install --upgrade pip && \
+    python -m pip install jupyter && \
+    mkdir -p ~/.local/share/quarto/extensions/jmgirard/embedpdf && \
+    cp -r _extensions/jmgirard/embedpdf/* ~/.local/share/quarto/extensions/jmgirard/embedpdf/ && \
+    quarto render
+  """
   publish = "_site"
