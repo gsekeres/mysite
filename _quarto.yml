@@ -20,5 +20,9 @@ format:
     css: styles.css
     toc: true
 
+extensions:
+  - jmgirard/embedpdf
+  - quarto-ext/listing
+
 
 
