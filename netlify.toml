@@ -8,9 +8,9 @@
     export PATH="$PATH:$(pwd)/quarto-1.4.537/bin" && \
     python -m pip install --upgrade pip && \
     python -m pip install jupyter && \
-    quarto install extension quarto-ext/listing -y && \
-    quarto install extension jmgirard/embedpdf -y && \
-    quarto install extension quarto/title-block -y && \
+    quarto install extension quarto-ext/listing --no-prompt && \
+    quarto install extension jmgirard/embedpdf --no-prompt && \
+    quarto install extension quarto/title-block --no-prompt && \
     quarto render
   """
   publish = "_site"
