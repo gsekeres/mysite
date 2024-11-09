@@ -10,6 +10,6 @@
     python -m pip install jupyter && \
     mkdir -p ~/.local/share/quarto/extensions/jmgirard/embedpdf && \
     cp -r _extensions/jmgirard/embedpdf/* ~/.local/share/quarto/extensions/jmgirard/embedpdf/ && \
-    quarto render index.qmd about.qmd cv.qmd research.qmd resources.qmd ws.qmd --output-dir _site
+    quarto render
   """
   publish = "_site"
